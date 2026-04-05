@@ -1,4 +1,4 @@
-### 4 types of Metrics in Observability
+### The Four Common Types of Metrics: Counters, Gauges, Histograms, and Summaries
 
 1. Counter - Cumulative metrics 
      - Ex:- (Total requests served)
