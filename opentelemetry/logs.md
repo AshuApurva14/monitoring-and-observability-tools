@@ -9,7 +9,7 @@
 
 - Apart from content, log formats also vary with their consumers. Initially, text-based formats catered to human readability. 
 - However, as software systems became more complex, the volume of logs soon became unmanageable. 
-- To combat this, we started encoding events as key/value pairs to make them machine-readable, which is commonly known as structured logging. 
+- To combat this, we started `encoding events as key/value pairs` to make them `machine-readable`, which is `commonly known` as `structured logging`. 
 - Moreover, the distribution and ephemeral nature of containerized applications meant that it was no longer feasible to log onto individual machines and sift through logs. 
 - As a result, people started to build logging agents and protocols to forward logs to dedicated services.
 - These logging systems allowed for efficient storage as well as the ability to search and filter logs in a central location.
