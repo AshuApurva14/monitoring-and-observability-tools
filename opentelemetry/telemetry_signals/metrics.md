@@ -25,6 +25,9 @@ http_requests_total{method="GET", endpoint="/api/users", status="404"} = 23
 
 ```
 
+### Metrics Features
+
+- Metrics is aggregated value.
 
 
    
