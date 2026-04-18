@@ -1,0 +1,5 @@
+# Prometheus configurations
+
+global:
+  scrape_interval:     15s  # Defines the intervals
+  evaluation_interval: 15s
